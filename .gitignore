@@ -1,0 +1,5 @@
+/mailguard
+/dist/
+*.test
+*.out
+coverage.*
